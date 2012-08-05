@@ -3,6 +3,7 @@ select-chain
 
  - Populating later select boxes according to selection in previous select box.
  - This repo contains solution code to my own question at StackOverflow here: http://stackoverflow.com/q/9101495/1052356
+ - Working demo here: http://vishaltelangre.com/demos/select_chain/
 
 Description
 -----------
